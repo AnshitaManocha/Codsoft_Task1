@@ -69,7 +69,7 @@ display: flex;
     line-height: 1.2;
 }
 
-..home-content h3 {
+.home-content h3 {
     font-size: 32px;
     font-weight: 700;
     color:#00abf0;
@@ -199,14 +199,4 @@ transition: .5s;
     right:50%;
     border-radius: 20px;
     overflow: hidden;
-}
-
-.home-imgHover {
-    position: absolute;
-    top: 0;
-    right: 30px;
-    width: 500px;
-    height:100%;
-    background: transparent;
-    border: 2px solid red;
 }
